@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# React Native
+android/.gradle/
+android/app/build/
+ios/Pods/
+
+# Python
+__pycache__/
+.venv/
+
+# Secrets
+.env
